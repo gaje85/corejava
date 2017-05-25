@@ -71,3 +71,7 @@ CoreJava Tamil Video Tutorial
  69) Select statement execution and resultset
  70) Prepared statement and callable statement 
  71) JDBC Batching , Transaction management , metadata
+ 72) Junit part-1
+ 73) Junit part-2
+ 74) JVM internals and memory model part-1
+ 75) JVM internals and memory model part-2
