@@ -75,3 +75,8 @@ CoreJava Tamil Video Tutorial
  73) Junit part-2
  74) JVM internals and memory model part-1
  75) JVM internals and memory model part-2
+ 76) Insertion Sort
+ 77) Mergesort
+ 78) Bubble Sort
+ 79) Quick Sort
+ 80) XML Parsing - SAX and DOM
