@@ -73,10 +73,13 @@ CoreJava Tamil Video Tutorial
  71) JDBC Batching , Transaction management , metadata
  72) Junit part-1
  73) Junit part-2
- 74) JVM internals and memory model part-1
- 75) JVM internals and memory model part-2
- 76) Insertion Sort
- 77) Mergesort
- 78) Bubble Sort
- 79) Quick Sort
- 80) XML Parsing - SAX and DOM
+ 74) Junit part-3
+ 75) XML parsing intro
+ 76) SAX Parsing
+ 77) DOM Parsing
+ 78) JAXB parsing
+ 79) JVM internals and memory model part-1
+ 80) JVM internals and memory model part-2 heap
+ 81) GC part-1
+ 82) GC part-2
+ 
